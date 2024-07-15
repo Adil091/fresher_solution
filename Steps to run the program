@@ -1,0 +1,7 @@
+just open the file in VSCODE
+Then open the file location in terminal (build)
+For Linux system:
+then just type the following command "./Fresher"
+For Windows system :
+after changeing directory to the build just press run button or F5 to run the code
+

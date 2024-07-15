@@ -1,0 +1,3 @@
+/media/hoax/91 PD/task programming/Fresher_Solu/build/CMakeFiles/Fresher.dir
+/media/hoax/91 PD/task programming/Fresher_Solu/build/CMakeFiles/edit_cache.dir
+/media/hoax/91 PD/task programming/Fresher_Solu/build/CMakeFiles/rebuild_cache.dir
